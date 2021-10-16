@@ -32,7 +32,6 @@ function App() {
       <div className='background'style={{backgroundImage: `url(${images})`}}>
       <Navbar />
       <Header isSelected='ui form' />
-      <Select />
       <Describe />
       
       <Budget />
